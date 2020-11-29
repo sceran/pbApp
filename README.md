@@ -34,5 +34,8 @@ But I didn't realize how much impact would be
 My name is Giovanni Giorgio, but everybody calls me Giorgio
 ...
 
+[![Build Status](https://travis-ci.com/sceran/pbApp.svg?branch=main)](https://travis-ci.com/sceran/pbApp)
+
+
 
 Demo site: https://still-caverns-33012.herokuapp.com
